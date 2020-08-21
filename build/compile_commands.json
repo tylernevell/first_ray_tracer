@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/n3vdawg/gameDevStudies/ray_tracer/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -o CMakeFiles/ray_tracer.dir/main.cpp.o -c /Users/n3vdawg/gameDevStudies/ray_tracer/main.cpp",
+  "file": "/Users/n3vdawg/gameDevStudies/ray_tracer/main.cpp"
+}
+]
